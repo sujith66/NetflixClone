@@ -1,2 +1,2 @@
 # reactSamples
-A Simple netflix landing age with html and js.
+A Simple netflix landing page with html and js.
